@@ -1,9 +1,9 @@
 
 public class quraticsolver {
     public static void main(String[] args) {
-        int a = 1;
-        int b = -3;
-        int c = 2;
+       int a = 2;
+int b = 5;
+int c = -3;
 
         double discriminant = b * b - 4 * a * c;
 
